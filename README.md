@@ -1,4 +1,6 @@
-## Hi there 👋
+- hi! i’m angela, studying computer science at uc berkeley.
+- interested in media technology, computer vision, film, and creative computing.
+- 💌 check out my [portfolio](https://www.angelayelan.com) | [linkedin](https://www.linkedin.com/in/angela-ye-bb12281ab/) | angelaye [at] berkeley [dot] edu
 
 <!--
 **yelanisliving/yelanisliving** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
